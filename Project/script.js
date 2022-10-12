@@ -1,4 +1,3 @@
-const resim = document.getElementById('resim');
 const resimdizi = ['300','400','500','600',
                    '700','800','900','1020',
                    '1030','1040','1050','1060'];
